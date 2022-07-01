@@ -87,14 +87,14 @@ function App() {
       ],
     },
     {
-      text: "5. Czy jesteś osobą palącą?",
+      text: "6. Czy jesteś osobą palącą?",
       options: [
         { id: 0, text: "Tak", wartosc: 0 },
         { id: 1, text: "Nie", wartosc: 10 },
       ],
     },
      {
-      text: "6. Czy możesz pomóc osobie zależnej wstać/usiąść?",
+      text: "7. Czy możesz pomóc osobie zależnej wstać/usiąść?",
       options: [
         { id: 0, text: "Tak - jeśli osoba przy tym pomaga", wartosc: 0 },
         { id: 1, text: "Tak - jeśli pomaga nieznacznie", wartosc: 100 },
@@ -102,7 +102,7 @@ function App() {
       ],
     },
     {
-      text: "7. Czy pomożesz osobie zależnej przy toalecie nocnej?",
+      text: "8. Czy pomożesz osobie zależnej przy toalecie nocnej?",
       options: [
         { id: 0, text: "Tak - sporadycznie raz w nocy", wartosc: 0 },
         { id: 1, text: "Tak - częściej niż raz w nocy", wartosc: 100 },
@@ -110,7 +110,7 @@ function App() {
       ],
     },
     {
-      text: "8. Czy chcesz pomagać osobie zależnej obsłużyć butelkę po stomii?",
+      text: "9. Czy chcesz pomagać osobie zależnej obsłużyć butelkę po stomii?",
       options: [
         { id: 0, text: "Tak", wartosc: 100 },
         { id: 1, text: "Nie", wartosc: 0 },
@@ -118,7 +118,7 @@ function App() {
       ],
     },
     {
-      text: "9. Czy chcesz pomagać osobie zależnej cierpiącej na demencję? ",
+      text: "10. Czy chcesz pomagać osobie zależnej cierpiącej na demencję? ",
       options: [
         { id: 0, text: "Tak - przy początkach demencji", wartosc: 0 },
         { id: 1, text: "Tak - przy średniej lub zaawansowanej demencji", wartosc: 50 },
@@ -127,7 +127,7 @@ function App() {
       ],
     },
     {
-      text: "10. Od kiedy możesz podjąć pracę? ",
+      text: "11. Od kiedy możesz podjąć pracę? ",
       options: [
         { id: 0, text: "od zaraz - w ciągu 5 dni", wartosc: 50 },
         { id: 1, text: "za 2 tygodnie", wartosc: 0 },
